@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 For more information, reach out to Li Shitian at [dc12689@umac.mo](mailto:dc12689@umac.mo).
 
 #### Project Report
-For a detailed project report and documentation, please refer to the [Project Report.pdf](Project_Report.pdf) included in the repository. This document includes a comprehensive overview, list of services, tasks performed, accomplishments, and learning outcomes.
+For a detailed project report and documentation, please refer to the [Individual.zip](Individual.zip) included in the repository. This document includes a comprehensive overview, list of services, tasks performed, accomplishments, and learning outcomes.
